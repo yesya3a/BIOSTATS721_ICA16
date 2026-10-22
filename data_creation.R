@@ -1,5 +1,5 @@
 # Shiya
-# OCt2026
+# Oct2026
 # Sample code in class
 
 dat<- runif(500,0,100)
